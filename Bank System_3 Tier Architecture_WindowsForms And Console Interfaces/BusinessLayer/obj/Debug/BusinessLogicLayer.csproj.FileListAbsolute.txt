@@ -1,0 +1,12 @@
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLogicLayer.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\Business.450209FB.Up2Date
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.pdb

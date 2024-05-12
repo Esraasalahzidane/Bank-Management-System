@@ -1,0 +1,24 @@
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\obj\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\Shared\obj\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\obj\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\Shared\obj\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\bin\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\bin\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\Shared\obj\Debug\Shared.pdb

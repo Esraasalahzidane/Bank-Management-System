@@ -1,0 +1,205 @@
+C:\Users\Administrator\Desktop\Bank\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\Bank\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Bank\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.Shared.FrmHome.resources
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.Views.Clients.Home.resources
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.Views.Clients.Add.resources
+C:\Users\Administrator\Desktop\Bank\obj\Debug\Bank.Views.Clients.Update.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.Clients.Clients.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmHome.resources
+C:\Users\Administrator\Desktop\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.FrmTransactions.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe.config
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.pdb
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.dll
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\WinFormAnimation.dll
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.xml
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.FrmLogin.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmLayout.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmHome.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.Clients.Clients.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.FrmTransactions.resources
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CopyComplete
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.exe
+D:\TFS\yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Shared.FrmHome.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.FrmTransactions.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.Clients.FrmClients.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.FrmManageUsers.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.Views.FrmCurrencyExchange.resources
+C:\Users\Administrator\Desktop\Yesterday\014_C Sharp Level 1\2_Projects\6_Bank\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Views.FrmCurrencyExchange.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Shared.FrmHome.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Views.Clients.FrmClients.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Views.FrmManageUsers.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.Views.FrmTransactions.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Views.FrmCurrencyExchange.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Shared.FrmHome.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Views.Clients.FrmClients.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Views.FrmManageUsers.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.Views.FrmTransactions.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\obj\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\WindowsFormsInterface\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\WinFormAnimation.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.xml
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Currencies.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.Home.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Clients.FrmClients.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Users.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Transactions.resources
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe.config
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\WinFormAnimation.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.xml
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.FrmLogin.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Properties.Resources.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.FrmLayout.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Currencies.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.Home.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Clients.FrmClients.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Users.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Transactions.resources
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.GenerateResource.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.Up2Date
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.exe
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.pdb
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe.config
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.exe
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Bank.pdb
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.dll
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.dll
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\WinFormAnimation.dll
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.dll
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.pdb
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\BusinessLayer.dll.config
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\Shared.pdb
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\CircularProgressBar.xml
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\bin\Debug\DataLayer.pdb
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.AssemblyReference.cache
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.FrmLogin.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Properties.Resources.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.FrmLayout.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Currencies.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Shared.Home.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Clients.FrmClients.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Users.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.Views.Transactions.resources
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.GenerateResource.cache
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.CoreCompileInputs.cache
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.csproj.Up2Date
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.exe
+G:\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\WindowsFormsInterface\obj\Debug\Bank.pdb

@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\bin\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.csproj.Up2Date
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\DataLayer\obj\Debug\DataLayer.pdb

@@ -1,0 +1,71 @@
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\ConsoleInterface.exe.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\ConsoleInterface.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\ConsoleInterface.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\ConsoleInterface\obj\Debug\ConsoleInterface.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.exe
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.pdb
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe.config
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe.manifest
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.application
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.pdb
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.dll
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.dll
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.pdb
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll.config
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.pdb
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.pdb
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.AssemblyReference.cache
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.SuggestedBindingRedirects.cache
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CoreCompileInputs.cache
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.exe.manifest
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.application
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CopyComplete
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.exe
+D:\TFS\Programming Advices Projects\018_CSharp And Database Connectivity\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe.config
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe.manifest
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.application
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.exe
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\ConsoleInterface.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.dll
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\BusinessLayer.dll.config
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\Shared.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\bin\Debug\DataLayer.pdb
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.AssemblyReference.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.csproj.CoreCompileInputs.cache
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.exe.manifest
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.application
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleI.91DC3CC5.Up2Date
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.exe
+C:\Users\Sky\Desktop\bank\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\ConsoleInterface\obj\Debug\ConsoleInterface.pdb

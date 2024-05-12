@@ -1,0 +1,576 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7F0462-CE92-4228-9BB5-1BBD247969C6}|..\\DataLayer\\DataLayer.csproj|c:\\users\\sky\\desktop\\bank\\bank system_3 tier architecture_windowsforms and console interfaces\\datalayer\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ConsoleInterface||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|BusinessLogicLayer||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Shared||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\home.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\views\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:views\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\usersettings\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42848C5B-7630-41DE-82F1-34155784E476}|Bank.csproj|solutionrelative:usersettings\\loggeduser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D84982-9245-4E6F-8AFB-D53C569726BE}|..\\BusinessLayer\\BusinessLogicLayer.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D84982-9245-4E6F-8AFB-D53C569726BE}|..\\BusinessLayer\\BusinessLogicLayer.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Currencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0D84982-9245-4E6F-8AFB-D53C569726BE}|..\\BusinessLayer\\BusinessLogicLayer.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\App.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Clients.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Currencies\\Currencies.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Home.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Transactions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\FrontEndFunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\LoggedUser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7F0462-CE92-4228-9BB5-1BBD247969C6}|..\\DataLayer\\DataLayer.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\DataAccessSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F7F0462-CE92-4228-9BB5-1BBD247969C6}|..\\DataLayer\\DataLayer.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\Util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\PersonClient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\CountryCurrency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80DF8ED6-9E3E-4A6D-A80D-31AB980AFDEB}|..\\ConsoleInterface\\ConsoleInterface.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD9C1B56-3A8C-4197-BD32-E70BFB2BF731}|..\\Shared\\Shared.csproj|C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\User.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Currencies.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Currencies.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Currencies.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Currencies.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Currencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:15:21.203Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Clients.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Clients.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Clients.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Clients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:15:19.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:14:39.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Client.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Client.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Client.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Client.cs",
+              "RelativeToolTip": "..\\Shared\\Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:08:05.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Clients.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\Clients.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Clients.cs",
+              "RelativeToolTip": "..\\DataLayer\\Clients.cs",
+              "ViewState": "AQIAAP8AAAAAAAAAAAAowAkBAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:08:17.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Users.cs",
+              "RelativeDocumentMoniker": "..\\BusinessLayer\\Users.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\Users.cs",
+              "RelativeToolTip": "..\\BusinessLayer\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:15:22.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ClientTransfer.cs",
+              "DocumentMoniker": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs",
+              "ToolTip": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-10T14:23:36.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BusinessLogicLayer",
+              "DocumentMoniker": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\BusinessLogicLayer.csproj",
+              "ToolTip": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\BusinessLayer\\BusinessLogicLayer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-05T19:08:25.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-05T19:14:49.323Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ClientTransfer.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\ClientTransfer.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ClientTransfer.cs",
+              "RelativeToolTip": "..\\Shared\\ClientTransfer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:06:15.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleInterface",
+              "DocumentMoniker": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\ConsoleInterface.csproj",
+              "ToolTip": "G:\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\ConsoleInterface.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-10T14:22:54.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Country.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Country.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Country.cs",
+              "RelativeToolTip": "..\\Shared\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:11:10.969Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\FrmLogin.cs",
+              "RelativeDocumentMoniker": "FrmLogin.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\FrmLogin.cs [Design]*",
+              "RelativeToolTip": "FrmLogin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:14:05.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Clients.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Clients.cs",
+              "RelativeDocumentMoniker": "Views\\Clients.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Clients.cs [Design]",
+              "RelativeToolTip": "Views\\Clients.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:13:46.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Shared",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Shared.csproj",
+              "RelativeDocumentMoniker": "..\\Shared\\Shared.csproj",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Shared.csproj",
+              "RelativeToolTip": "..\\Shared\\Shared.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-04-28T23:10:56.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Home.Designer.cs",
+              "RelativeDocumentMoniker": "Views\\Home.Designer.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Home.Designer.cs",
+              "RelativeToolTip": "Views\\Home.Designer.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAwwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:13:41.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Users.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Users.cs",
+              "RelativeDocumentMoniker": "Views\\Users.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Users.cs*",
+              "RelativeToolTip": "Views\\Users.cs*",
+              "ViewState": "AQIAACcBAAAAAAAAAAAwwDIBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:13:18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Users.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Users.cs",
+              "RelativeDocumentMoniker": "Views\\Users.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Users.cs [Design]*",
+              "RelativeToolTip": "Views\\Users.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:24.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Transactions.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Transactions.cs",
+              "RelativeDocumentMoniker": "Views\\Transactions.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Transactions.cs [Design]",
+              "RelativeToolTip": "Views\\Transactions.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:23.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Home.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Home.cs",
+              "RelativeDocumentMoniker": "Views\\Home.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\Views\\Home.cs [Design]",
+              "RelativeToolTip": "Views\\Home.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:12:03.233Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoggedUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\UserSettings\\LoggedUser.cs",
+              "RelativeDocumentMoniker": "UserSettings\\LoggedUser.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\WindowsFormsInterface\\UserSettings\\LoggedUser.cs",
+              "RelativeToolTip": "UserSettings\\LoggedUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:11:57.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\App.config",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\App.config",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\App.config",
+              "RelativeToolTip": "..\\ConsoleInterface\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-05T19:07:37.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Clients.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Clients.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Views\\Clients\\Clients.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Clients.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Views\\Clients\\Clients.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:07:35.158Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Home.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Views\\Clients\\Home.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Clients\\Home.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Views\\Clients\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:07:33.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Person.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Person.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Person.cs",
+              "RelativeToolTip": "..\\Shared\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:11:14.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Currency.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\Currency.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\Currency.cs",
+              "RelativeToolTip": "..\\Shared\\Currency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:11:09.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Currencies.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Currencies\\Currencies.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Views\\Currencies\\Currencies.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Currencies\\Currencies.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Views\\Currencies\\Currencies.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:07:31.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Home.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Home.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Views\\Transactions\\Home.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Home.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Views\\Transactions\\Home.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:50.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Transactions.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Transactions.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Views\\Transactions\\Transactions.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Views\\Transactions\\Transactions.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Views\\Transactions\\Transactions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:52.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "FrontEndFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\FrontEndFunctions.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Shared\\FrontEndFunctions.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\FrontEndFunctions.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Shared\\FrontEndFunctions.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:07:02.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoggedUser.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\LoggedUser.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Shared\\LoggedUser.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Shared\\LoggedUser.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Shared\\LoggedUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:07:00.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataAccessSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\DataAccessSettings.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\Settings\\DataAccessSettings.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\DataAccessSettings.cs",
+              "RelativeToolTip": "..\\DataLayer\\Settings\\DataAccessSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:39.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\Util.cs",
+              "RelativeDocumentMoniker": "..\\DataLayer\\Settings\\Util.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\DataLayer\\Settings\\Util.cs",
+              "RelativeToolTip": "..\\DataLayer\\Settings\\Util.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:34.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PersonClient.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\PersonClient.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\ModelViews\\PersonClient.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\PersonClient.cs",
+              "RelativeToolTip": "..\\Shared\\ModelViews\\PersonClient.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:28.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CountryCurrency.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\CountryCurrency.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\ModelViews\\CountryCurrency.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\ModelViews\\CountryCurrency.cs",
+              "RelativeToolTip": "..\\Shared\\ModelViews\\CountryCurrency.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-05T19:06:27.585Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\ConsoleInterface\\Program.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\ConsoleInterface\\Program.cs",
+              "RelativeToolTip": "..\\ConsoleInterface\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:11:25.55Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\User.cs",
+              "RelativeDocumentMoniker": "..\\Shared\\User.cs",
+              "ToolTip": "C:\\Users\\Sky\\Desktop\\bank\\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\\Shared\\User.cs",
+              "RelativeToolTip": "..\\Shared\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T23:11:15.247Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

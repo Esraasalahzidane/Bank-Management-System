@@ -1,0 +1,36 @@
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System With 3 Tier Architecture\BusinessLayer\obj\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.dll.config
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\DataLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\Shared.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\bin\Debug\Shared.pdb
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.dll
+C:\Users\Administrator\Desktop\Yesterday\Bank System_3 Tier Architecture_WindowsForms And Console Interfaces\BusinessLayer\obj\Debug\BusinessLayer.pdb
